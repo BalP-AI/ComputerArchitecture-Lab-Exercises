@@ -1,5 +1,4 @@
-#Chrysovalantis Pteiniotis 
-#Icsd18174 
+
 .data
 
 ARRAY: .word 0:10
