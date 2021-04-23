@@ -1,5 +1,4 @@
-#Icsd18174
-#Chrysovalantis Patiniotis
+
 
 .data
 array1: .word 0:20 	 #dilwsi pinaka 20 thesewn kai arxikopoihsh
