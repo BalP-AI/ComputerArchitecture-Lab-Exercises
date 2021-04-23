@@ -1,5 +1,4 @@
-#Chrysovalantis Pateiniotis 
-#Icsd18174 
+
 .data																# data to be used later in the program
 str: .asciiz " Enter temperature "
 str1: .asciiz " Enter the number of the temperatures :  "
